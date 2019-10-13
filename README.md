@@ -1,4 +1,5 @@
 # hello-world
 
 This is Nitin Raut
-Work for TIBCO software and help customers solve their business challenges.
+Help Customer with Digital Transformation using Google Cloud. 
+Check out: https://sites.google.com/view/rautnitin/gcp
